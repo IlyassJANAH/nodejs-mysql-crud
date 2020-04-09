@@ -14,5 +14,5 @@ CREATE TABLE IF NOT EXISTS `users` (
   `age` int(11) NOT NULL,
   `email` varchar(40) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
+) ;
 ```
